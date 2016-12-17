@@ -4,7 +4,7 @@
 抓取百度百科关于Python词条下1000个链接页面的数据，并输出到output.html文件。Python2.7的版本
 
 # 需要的运行环境：
-- Ubuntu14.04、Python2.7、BeautifulSoup4、urllib2等
+- mac10.11.5、Python2.7、BeautifulSoup4、urllib2等
 
 # 爬虫调度端
 
